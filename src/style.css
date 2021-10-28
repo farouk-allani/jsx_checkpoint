@@ -6,7 +6,22 @@
     background-color:rgb(1,1,1);
     color: white;
   }
+  
 
   .title {
-    color: rgba(176, 218, 99, 0.938);
+    
+    font-family: "Rubik",sans-serif;
+    color: #ffffff;
+    font-size: 80px;
+    letter-spacing: 20px;
+    cursor: pointer;
+    filter: blur(5px);
+    transition: 0.3s all;
+    
  }
+ .title:hover{
+  filter: blur(0);
+ }
+ .red{
+    color: rgb(177,172,255);
+  }
