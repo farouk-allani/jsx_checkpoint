@@ -1,0 +1,12 @@
+.App {
+    text-align: center;
+  }
+
+  .App-header {
+    background-color:rgb(1,1,1);
+    color: white;
+  }
+
+  .title {
+    color: rgba(176, 218, 99, 0.938);
+ }
